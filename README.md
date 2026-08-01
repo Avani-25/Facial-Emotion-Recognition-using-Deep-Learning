@@ -44,21 +44,15 @@ The project uses a facial emotion dataset containing 7 emotion classes:
 
 ## 🔄 Project Workflow
 
-Data Collection
-↓
-Data Loading & Exploration
-↓
-Image Preprocessing
-↓
-Data Augmentation
-↓
-Model Building (MobileNetV2)
-↓
-Model Training
-↓
-Model Evaluation
-↓
-Emotion Prediction on Unseen Images
+| Phase       | Work Done                             | Libraries Used                                                                |
+| ----------- | ------------------------------------- | ----------------------------------------------------------------------------- |
+| **Phase 1** | Project setup & dataset understanding | Python, OS, TensorFlow basics                                                 |
+| **Phase 2** | Data Loading                          | TensorFlow `image_dataset_from_directory`, NumPy                              |
+| **Phase 3** | Image Preprocessing & Augmentation    | TensorFlow/Keras preprocessing layers (`Resizing`, `Rescaling`, augmentation) |
+| **Phase 4** | Model Building & Training             | TensorFlow/Keras, MobileNetV2                                                 |
+| **Phase 5** | Model Evaluation                      | Matplotlib, Seaborn, Scikit-learn (confusion matrix, classification report)   |
+| **Phase 6** | Prediction on unseen images           | TensorFlow/Keras image loading & preprocessing                                |
+
 
 ---
 
