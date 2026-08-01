@@ -38,7 +38,7 @@ The project uses a facial emotion dataset containing 7 emotion classes:
 - Pandas
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- VScode
 
 ---
 
