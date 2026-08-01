@@ -81,28 +81,6 @@ The trained model was evaluated on the test dataset and performance was analyzed
 
 ---
 
-## 📁 Repository Structure
-
-Facial-Emotion-Recognition/
-│
-├── notebooks/
-│ ├── phase2_data_loading.ipynb
-│ ├── phase3_preprocessing.ipynb
-│ ├── phase4_model_training.ipynb
-│ ├── phase5_evaluation.ipynb
-│ └── phase6_prediction.ipynb
-│
-├── models/
-│ └── best_model.keras
-│
-├── outputs/
-│ ├── graphs/
-│ ├── confusion_matrix.png
-│ └── predictions/
-│
-├── README.md
-└── requirements.txt
-
 ## 🚀 Future Improvements
 
 - Improve accuracy with better fine-tuning.
