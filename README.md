@@ -82,7 +82,7 @@ The trained model was evaluated on the test dataset and performance was analyzed
 ---
 
 ## Project Report
-
+https://drive.google.com/file/d/1Jk7-TBobaMw8hhvxBCDf9p_c0Fw6kGwC/view?usp=sharing
 
 ## 🚀 Future Improvements
 
